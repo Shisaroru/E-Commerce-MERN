@@ -8,5 +8,5 @@ Place in build folder
 Place in client folder
 
 ## Environment Variable
-MONGODB_URI to connect to database
-ACCESS_TOKEN_SECRET and REFRESH_TOKEN_SECRET for user authentication using jwt
+MONGODB_URI to connect to database  
+ACCESS_TOKEN_SECRET and REFRESH_TOKEN_SECRET for user authentication using jwt  
